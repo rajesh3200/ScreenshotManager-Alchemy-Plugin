@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<plugin xmlns:c="https://www.alchemywebstore.com/configuration/definitions" xmlns="http://www.alchemywebstore.com/">
+  <id>55a2e902e4de020cc484cc6c</id>
+  <name>ScreenShotManager</name>
+  <description><![CDATA[GUI Extension to enable 'Abort Publishing' within the Publish dialog as default ]]></description>
+  <version>1.0.0.0</version>
+  <references />
+  <settings>
+  </settings>
+  <versionId>55a2e902e4de020cc484cc7f</versionId>
+  <frameworkVersion>1.0.1.1</frameworkVersion>
+</plugin>
